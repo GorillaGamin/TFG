@@ -15,4 +15,4 @@
 
 4. **Disclaimer**: This software is provided "as is," without warranty of any kind. The authors are not liable for any damages arising from the use of this software.
 
-5. **Modding**: You will be able to mod in the future. Please wait for now.
+5. **Modding**: You will be able to mod in the future. Please wait for now. Update 1.0.5 will add Modding.
